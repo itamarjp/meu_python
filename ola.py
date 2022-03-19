@@ -1,5 +1,5 @@
 ano_nascimento = input("Digite seu ano de nascimento..:")
 idade = 2022 - int(ano_nascimento)
-print("Vc tem ", idade, " anos")
+print("Você tem ", idade, " anos")
 
 
